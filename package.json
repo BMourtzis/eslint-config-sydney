@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-sydney",
+  "version": "0.1.0",
+  "description": "Sydney style rules for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "eslint-config-eslint"
+  },
+  "keywords": [
+    "eslint",
+    "js"
+  ],
+  "author": "Vasileios Mourtzis",
+  "license": "Apache License 2.0"
+}
