@@ -169,6 +169,7 @@ module.exports = {
         "no-whitespace-before-property": "error",
         "no-with": "error",
         "nonblock-statement-body-position": "error",
+        "max-lines": ["error", { "max": 300, "skipBlankLines": true, "skipComments": true}],
         "object-curly-newline": "off",
         "object-curly-spacing": "off",
         "object-shorthand": "error",
