@@ -40,7 +40,7 @@ module.exports = {
         "func-name-matching": "error",
         "func-names": "off",
         "func-style": ["error", "declaration", {"allowArrowFunctions": true}],
-        "function-paren-newline": "error",
+        "function-paren-newline": ["error", "multiline"],
         "generator-star-spacing": "error",
         "getter-return": "error",
         "global-require": "error",

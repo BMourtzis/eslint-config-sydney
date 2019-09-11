@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-sydney",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sydney style rules for eslint",
   "main": "index.js",
   "scripts": {
